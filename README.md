@@ -3,4 +3,3 @@
 Opa, bão?
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zenetoshl&theme=tokyonight&exclude_repo=Teamfight-Comps)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zenetoshl&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
